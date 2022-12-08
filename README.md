@@ -3,7 +3,7 @@
 Installation:
 
 ```shell
-go install github.com/crypto-zero/generate-copy@main
+go install github.com/crypto-zero/generate-copy@latest
 ```
 
 How to use: 
